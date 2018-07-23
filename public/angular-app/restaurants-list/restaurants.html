@@ -1,0 +1,26 @@
+
+<div class="container-fluid main-text">
+
+<h1><strong>{{vm.title}}</strong></h1>
+</div>
+
+
+
+
+<div class="container-fluid">
+<div class="row">
+
+  <div  class="col-sm-3 " ng-repeat="restaurant in vm.restaurants" ng-init="myVar=['../images/cafe-bahar.jpg','../images/exotica.jpg','../images/haiku.jpg',
+  '../images/absoluteBarbecue.jpg','../images/bikanervala.jpg','../images/bawarchi.jpg']">
+    <a  class="links" ng-href="#!/restaurants/{{ restaurant._id }}">
+
+      <img class="images" ng-src="{{myVar[$index]}}"><br>
+      <h4 class="links-name">{{ restaurant.name }}</h4></a>
+
+
+</div>
+
+</div>
+
+
+</div>
