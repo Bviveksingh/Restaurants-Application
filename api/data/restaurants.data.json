@@ -1,0 +1,133 @@
+[
+
+    {
+        "name":  "AB's - Absolute Barbecues",
+        "stars":  5,
+        "description": " A unique 'do-it-yourself' dining experience where diners grill on the Table, their choice of Meat, Seafood and Vegetables starters served on skewers to their preference. A central live grill 'Wish Grill' dishing out exotic varieties of veggies and game birds take the experience of dining to a while new level.",
+        "cuisine": ["European", "Mediterranean", "North Indian"],
+        "address": "Plot 483, 4th Floor, Pemmasani Complex, Bajaj Electronics Building, Near Madhapur Police Station, Road 36, Jubilee Hills,Hyderabad",
+        "hours": " 12pm to 4.30pm and 6.30pm to 11.30pm",
+        "number":  30911002,
+        "cost":"1500  for two people(approx)",
+        "reviews": [{
+        "name": "Vivek",
+        "review": "Great restaurant",
+        "rating": 4
+    }],
+        "services":[
+            "Wheelchair Accessible",
+            "Serves Halal",
+            "Full Bar Available",
+            "Buffet",
+            "Valet Parking Available"
+        ]
+
+
+    },
+
+
+    {
+
+        "name": "Exotica",
+        "stars": 4,
+        "description":"It is a roof-top restaurant and is known to provide top service in the following categories: Restaurants, Buffet Restaurants, Restaurants & Bars, Barbeque Restaurants, Fine Dining Restaurants (Rs 1000 To Rs 2000), Restaurants With Candle Light Dinner, Multicuisine Restaurants, Brunch Restaurants.",
+        "cuisine":["Mughlai", "North Indian", "Chinese"],
+        "address":"Opposite Audi Showroom, 5th Floor, 12th Square Building, Road 12, Banjara Hills, Hyderabad",
+        "hours":"12.30pm to 3pm and 7pm to 11pm",
+        "number":33165163,
+        "cost":"1500/- for two people(approx)",
+        "reviews": [{
+        "name": "Akki",
+        "review": "Good Ambience",
+        "rating": 3
+    }],
+        "services":[        "Wheelchair Accessible",
+                            "Full Bar Available",
+                            "Valet Parking Available",
+                            "City View",
+                            "Brunch",
+                            "Disabled Friendly",
+                            "Table booking recommended",
+                            "Live Sports Screening",
+                            "Outdoor Seating",
+                            "Rooftop",
+                            "Buffet",
+                            "Kid Friendly",
+                            "Smoking Area"  ]
+
+    },
+    {
+
+        "name": "Haiku",
+        "stars": 4,
+        "description":"Haiku was established in the year 2016, this place is synonymous with delicious food that can satiate all food cravings. It is home to some of the most appreciated cuisines. Courtesy to this strategic location, foodies in and around the neighborhood can walk in to this eating house conveniently without facing any hassles related to commuting to this part of the city. It is one of the most sought after Restaurants in Banjara Hills. This is a one of the renowned Restaurants in Hyderabad.",
+        "cuisine":["Asian", "Japanese", "Thai", "Sushi"],
+        "address":"8-2-686/d, Above Good Earth, Road 12, Banjara Hills, Hyderabad",
+        "hours":"12:30PM to 3PM and 7:30PM to 10:30PM",
+        "number": 7095876333,
+        "cost":"1500/- for two people(approx)",
+        "reviews": [{
+        "name": "Robert",
+        "review": "Amazing restaurant",
+        "rating": 5
+    }],
+        "services": [ "Home Delivery",
+                    "No Alcohol Available",
+                    "Smoking Area",
+                    "Rooftop",
+                    "Table booking recommended",
+                    "Valet Parking Available"
+                  ]
+
+    },
+
+    {
+
+        "name": "Cafe Bahar",
+        "stars": 3.5,
+        "description":"Located in Old MLA quarters in basheerbagh, cafe bahar is a treat for the non-veg lovers. The restaurant is famous for its biryanis and kebabs. The location of the restaurant is easily accessible and the take-away service is very quick. All the biryani lovers find this place as their go-to spot.",
+        "cuisine":["Biryani", "North Indian", "Chinese"],
+        "address":"3-5-815/A, Old MLA Quarters, Avanti Nagar, Hyderguda, Basheer Bagh, Hyderabad",
+        "hours":"11AM to 4AM",
+        "number": 23237605,
+        "cost":"600/- for two people(approx)",
+        "reviews": [{
+        "name": "Raymond",
+        "review": "Decent restaurant",
+        "rating": 3
+    }],
+        "services":["Serves Non Veg",
+                    "No Alcohol Available",
+                    "Kid Friendly"
+                  ]
+
+    },
+
+    {
+
+        "name": "Bikanervala",
+        "stars": 4,
+        "description":"Established in 2016, bikanervala is a vegetarian friendly place.They first established thiss as a sweet shop and then expanded their business. It is located in banjara hills and hyderguda. It offers a large variety of north-indian vegetarian food. ",
+        "cuisine": [ "North Indian", "Street Food", "South Indian", "Chinese, Mithai" ],
+        "address":"6-3-190/2, Road 1, Banjara Hills, Hyderabad",
+        "hours":" 7:30AM to 11PM",
+        "number": 919160016801,
+        "cost":"700/- for two people(approx)",
+        "reviews": [{
+        "name": "Rachel",
+        "review": "Great Restaurant",
+        "rating": 4
+    }],
+        "services": [ "Breakfast",
+                    "Home Delivery",
+                    "Wheelchair Accessible",
+                    "Vegetarian Only",
+                    "No Alcohol Available",
+                    "Desserts and Bakes",
+                    "Valet Parking Available",
+                    "Serves Jain Food",
+                    "Buffet",
+                    "Table booking recommended"
+                  ]
+
+    }]
