@@ -19,3 +19,10 @@ Using 'Mongoose' I connected the application to the database and finally using A
 
 
 <img src="Screenshots/3.png" alt="Screenshot 3" height="400">
+
+
+# To make this application work :
+
+# 1. Node.js, MongoDB and AngularJS should be installed in the system.
+
+# 2. Don't forget to run "npm install" to add the dependencies.
